@@ -29,3 +29,4 @@
   - [Atualmente a comunidade MCP tem uma lista reduzida de recursos, incluindo links para listas de servidores](https://github.com/modelcontextprotocol/servers)
     - [Lista de servidores mcpservers.com](https://mcpservers.com/)
     - [Outra lista resumida de servidores, baseada no numero de estrelas de seus repos](https://github.com/apappascs/mcp-servers-hub)
+- [Roteamento inteligente de prompt no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
