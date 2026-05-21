@@ -31,3 +31,5 @@
     - [Outra lista resumida de servidores, baseada no numero de estrelas de seus repos](https://github.com/apappascs/mcp-servers-hub)
 - [Roteamento inteligente de prompt no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
 - [Repositorio com exemplos de flows](https://github.com/aws-samples/amazon-bedrock-flows-samples)
+- [Conectores suportados no Quick](https://docs.aws.amazon.com/quick/latest/userguide/action-connector-apis-supported-types.html)
+- [Q developer não existe mais a partir de 15 maio de 2026](https://aws.amazon.com/blogs/devops/amazon-q-developer-end-of-support-announcement/)
