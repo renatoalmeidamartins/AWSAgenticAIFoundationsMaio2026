@@ -23,3 +23,9 @@
 - Matrizes de escopo de segurança:
   - [IA agentica](https://aws.amazon.com/blogs/security/the-agentic-ai-security-scoping-matrix-a-framework-for-securing-autonomous-ai-systems/)
   - [Segurança de IA](https://aws.amazon.com/ai/security/generative-ai-scoping-matrix/)
+- [Arquitetura MCP](https://modelcontextprotocol.io/docs/learn/architecture)
+- Lista de servidores MCP
+  - [Um commit antigo, como era antigamente a lista mantida pela comunidade MCP, com uma lista infinita de servidores](https://github.com/modelcontextprotocol/servers/blob/599b170e9d750326c069ae87fd5991b099fb964a/README.md)
+  - [Atualmente a comunidade MCP tem uma lista reduzida de recursos, incluindo links para listas de servidores](https://github.com/modelcontextprotocol/servers)
+    - [Lista de servidores mcpservers.com](https://mcpservers.com/)
+    - [Outra lista resumida de servidores, baseada no numero de estrelas de seus repos](https://github.com/apappascs/mcp-servers-hub)
