@@ -37,3 +37,7 @@
   - [Poderes para o Kiro, como extensões para VSCode](https://kiro.dev/powers/)
   - [Docs e e getting started](https://kiro.dev/docs/)
   - [CLI do Kiro](https://kiro.dev/cli/), que substituiu a [CLI do Q](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html)
+- Recursos "obrigatorios" nos frameworks agenticos, e como eles implementam:
+  - CrewAI: [Ferramentas](https://docs.crewai.com/en/concepts/tools) e [Memoria](https://docs.crewai.com/en/concepts/memory)
+  - Langchain: [Ferramentas](https://docs.langchain.com/oss/python/langchain/tools) e [Memoria](https://docs.langchain.com/oss/python/concepts/memory)
+  - Strands: [Ferramentas](https://github.com/strands-agents/tools) e [memoria](https://strandsagents.com/docs/user-guide/concepts/agents/conversation-management/)
