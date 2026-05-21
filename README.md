@@ -6,3 +6,5 @@
 - [Lista de cursos organizados por categoria](https://aws.amazon.com/training/classroom/)
 - [Skill builder, enorme catálogo de cursos e trilhas de aprendizada](https://skillbuilder.aws)
 
+## Links do curso
+[Definição da AWS sobre agentic AI](https://aws.amazon.com/what-is/agentic-ai/)
