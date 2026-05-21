@@ -33,3 +33,7 @@
 - [Repositorio com exemplos de flows](https://github.com/aws-samples/amazon-bedrock-flows-samples)
 - [Conectores suportados no Quick](https://docs.aws.amazon.com/quick/latest/userguide/action-connector-apis-supported-types.html)
 - [Q developer não existe mais a partir de 15 maio de 2026](https://aws.amazon.com/blogs/devops/amazon-q-developer-end-of-support-announcement/)
+- O Q Developer foi engolido pelo Kiro:
+  - [Poderes para o Kiro, como extensões para VSCode](https://kiro.dev/powers/)
+  - [Docs e e getting started](https://kiro.dev/docs/)
+  - [CLI do Kiro](https://kiro.dev/cli/), que substituiu a [CLI do Q](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html)
