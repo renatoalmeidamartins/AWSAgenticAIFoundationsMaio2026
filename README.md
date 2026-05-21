@@ -42,3 +42,16 @@
   - Langchain: [Ferramentas](https://docs.langchain.com/oss/python/langchain/tools) e [Memoria](https://docs.langchain.com/oss/python/concepts/memory)
   - Strands: [Ferramentas](https://github.com/strands-agents/tools) e [memoria](https://strandsagents.com/docs/user-guide/concepts/agents/conversation-management/)
 - [Agentes no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html)
+- [Boa gestao do contexto, critica para lidar com agentes](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+- [Repo com exemplos de strands agents](https://github.com/strands-agents/samples/tree/main/python)
+- [Repo com exemplos do agentcore](https://github.com/awslabs/agentcore-samples/tree/main), inclui exemplos de IaC com agentcore
+- [CLI do agentcore](https://github.com/aws/agentcore-cli)
+- [Agentcore expoe ferramentas do gateway tambem via busca semantica](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+- [Estrategias de memoria de longo prazo no Agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory-strategies.html), atencao aos prompts usados ([exemplo da estrategia semantica)](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/memory-system-prompt.html))
+- [Politicas no agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy.html) usam uma linguagem chamada [cedar](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-understanding-cedar.html) e podem ser escritas em [linguagem natural](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-natural-language.html)
+- Agent 2 Agent - A2A:
+  - [Agent cards](https://agent2agent.info/docs/concepts/agentcard/)
+  - [Auth0 sendo usado com A2A](https://auth0.com/blog/auth0-google-a2a/)
+  - [Anuncio do A2A](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+  - 
+  - 
