@@ -53,5 +53,3 @@
   - [Agent cards](https://agent2agent.info/docs/concepts/agentcard/)
   - [Auth0 sendo usado com A2A](https://auth0.com/blog/auth0-google-a2a/)
   - [Anuncio do A2A](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
-  - 
-  - 
