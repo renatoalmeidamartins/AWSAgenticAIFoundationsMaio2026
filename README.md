@@ -20,3 +20,6 @@
     - [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/)
     - [Repo](https://github.com/strands-agents/sdk-python)
     - [Getting started](https://strandsagents.com/)
+- Matrizes de escopo de segurança:
+  - [IA agentica](https://aws.amazon.com/blogs/security/the-agentic-ai-security-scoping-matrix-a-framework-for-securing-autonomous-ai-systems/)
+  - [Segurança de IA](https://aws.amazon.com/ai/security/generative-ai-scoping-matrix/)
