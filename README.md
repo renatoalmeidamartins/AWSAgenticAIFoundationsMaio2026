@@ -41,3 +41,4 @@
   - CrewAI: [Ferramentas](https://docs.crewai.com/en/concepts/tools) e [Memoria](https://docs.crewai.com/en/concepts/memory)
   - Langchain: [Ferramentas](https://docs.langchain.com/oss/python/langchain/tools) e [Memoria](https://docs.langchain.com/oss/python/concepts/memory)
   - Strands: [Ferramentas](https://github.com/strands-agents/tools) e [memoria](https://strandsagents.com/docs/user-guide/concepts/agents/conversation-management/)
+- [Agentes no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html)
